@@ -27,7 +27,7 @@ CREATE TABLE products
     INSERT INTO products
         (product_name,department_name, price, stock_quantity)
     values
-        ("To All the Boys I've Loved Before", "Books", 9.99, 10);
+        ("To All the Boys I've Loved Before", "Books", 9.99, 4);
 
     INSERT INTO products
         (product_name,department_name, price, stock_quantity)
@@ -42,7 +42,7 @@ CREATE TABLE products
     INSERT INTO products
         (product_name,department_name, price, stock_quantity)
     values
-        ('Risk', "Games", 39.99, 5);
+        ('Risk', "Games", 39.99, 1);
     
     INSERT INTO products
         (product_name,department_name, price, stock_quantity)
